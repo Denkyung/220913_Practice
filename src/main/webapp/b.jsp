@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-김지훈입니다.
+B파일 김지훈입니다.
 </body>
 </html>
